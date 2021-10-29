@@ -8,6 +8,5 @@
 	- Pirkt lietus
 ## Izmantotās tehnoloģijas
 	- C++
-	- SFML library
 ## Izmantotie avoti
 	
