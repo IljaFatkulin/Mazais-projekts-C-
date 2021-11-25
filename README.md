@@ -1,7 +1,7 @@
 # Spele teksta iszkata
 
 ## Apraksts
-	Spele teskta izskata. Tur prieksmeti, kuri ietekmes uz speleteja speku, bus kaujas, kur uzvares speletajs vai dators atkarīgi no speka. 
+	Kazino spele, CRASH, jums ir naudas atlikums, jus varat likt likmes un uzvaret naudu.
 ## Galvenās funkcijas
 	- Ievadit tekstu
 	- Izveleties darbibu
